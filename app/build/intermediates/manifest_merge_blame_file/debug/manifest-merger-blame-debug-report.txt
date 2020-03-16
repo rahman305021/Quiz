@@ -11,7 +11,7 @@
 9-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:5:5-26:19
+11-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:5:5-21:19
 12        android:allowBackup="true"
 12-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,22 +28,24 @@
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
 20-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.example.arifrahman.MainActivity" >
-21-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:13:9-16:20
-21-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:13:19-47
-22        </activity>
+21        <activity android:name="com.example.arifrahman.ParagraphActivity" />
+21-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:12:9-64
+21-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:12:19-52
+22        <activity android:name="com.example.arifrahman.MainActivity" />
+22-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:13:9-59
+22-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:13:19-47
 23        <activity android:name="com.example.arifrahman.SplashScreen" >
-23-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:18:9-24:20
-23-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:18:19-47
+23-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:14:9-20:20
+23-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:14:19-47
 24            <intent-filter>
-24-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:19:13-23:29
+24-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:15:13-19:29
 25                <action android:name="android.intent.action.MAIN" />
-25-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:20:17-69
-25-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:20:25-66
+25-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:16:17-69
+25-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:16:25-66
 26
 27                <category android:name="android.intent.category.LAUNCHER" />
-27-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:22:17-77
-27-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:22:27-74
+27-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:18:17-77
+27-->C:\Users\ADN\AndroidStudioProjects\ArifRahman\app\src\main\AndroidManifest.xml:18:27-74
 28            </intent-filter>
 29        </activity>
 30    </application>
