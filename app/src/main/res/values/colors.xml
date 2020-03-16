@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#3e206d</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--    App Color -->
+    <color name="purple">#512C8B</color>
+    <color name="purple_dark">#3e206d</color>
+    <color name="purple_light">#f0e3ff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
